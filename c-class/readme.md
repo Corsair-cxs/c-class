@@ -9,9 +9,9 @@
    
 #### 继承篇
 - **Rectangle 的继承关系和内存布局**
-  ![](https://img-blog.csdn.net/20180814183104445?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L29ubHlzaGk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+  ![Rectangle](https://img-blog.csdn.net/20180814183104445?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L29ubHlzaGk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 #### 多态篇
 - 加上虚函数之后的类关系图
-  ![](https://img-blog.csdn.net/20180814183303749?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L29ubHlzaGk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+  ![ploy-1](https://img-blog.csdn.net/20180814183303749?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L29ubHlzaGk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
  - 虚函数调用
-  ![](https://img-blog.csdn.net/20180814183452583?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L29ubHlzaGk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+  ![ploy-2](https://img-blog.csdn.net/20180814183452583?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L29ubHlzaGk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
