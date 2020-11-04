@@ -1,6 +1,6 @@
 >这里参考了onlyshi的博客<br>
 >原文链接:<https://blog.csdn.net/onlyshi/article/details/81672279#commentBox><br>
-> 感谢原作者，感谢黄工(公众号ID：strongerhuang)!
+> 感谢原作者，感谢黄工(公众号ID：strongerHuang)!
 
 ### 使用说明：
 1. 每个文件夹都对应有Makefile文件，在Unix环境中直接运行`make`。
